@@ -1,0 +1,13 @@
+document.writeln("<span style=\'display:none\'>");
+document.writeln("<script type=\'text/javascript\' src=\'../js.users.51.la/f.txt\'></script>");
+document.writeln("<script type=\'text/javascript\' src=\'https://s9.cnzz.com/z_stat.php?id=1258783140&amp;web_id=1258783140\'></script>");
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\'script\');");
+document.writeln("  hm.src = \'../hm.baidu.com/hma056.js?b65bd76d1aa2eaff989610f257856302\';");
+document.writeln("  var s = document.getElementsByTagName(\'script\')[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");
+document.writeln("</span>");

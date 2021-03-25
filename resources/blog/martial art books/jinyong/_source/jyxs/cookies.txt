@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.baidu.com	TRUE	/	FALSE	1999999999	BAIDUID	F90E11C1E7C7CA872BECD29E5AF2C7D0:FG=1
+hm.baidu.com	TRUE	/	FALSE	1999999999	HMACCOUNT	FE0EDEDDA0DEDA2F
+
